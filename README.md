@@ -1,3 +1,4 @@
+
 # Data Analyst Portfolio
 
 This repository showcases SQL queries, VBA macros, and Excel automation projects.
@@ -9,3 +10,4 @@ This repository showcases SQL queries, VBA macros, and Excel automation projects
 
 ## About Me
 Creative director turned data analyst, blending technical precision with storytelling impact. Skilled in SQL, VBA, and Excel automation, building a portfolio for recruiter visibility.
+
